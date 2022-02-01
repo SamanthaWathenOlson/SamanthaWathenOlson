@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamanthaWathenOlson
-- 👀 I’m interested in ...cyber security, animation, and customer service.
+- 👀 I’m interested in ...cyber security, creating new programs and enjoying the process of problem solving.
 - 🌱 I’m currently learning ...JavaScript.
 - 💞️ I’m looking to collaborate on ...not yet.
 - 📫 How to reach me ...email.
