@@ -1,8 +1,8 @@
 <HTML>
   <HEAD>
-    <TITLE text="7FFFD4"> My Journey to Cyber Security Confidence</TITLE>
+    <TITLE> My Journey to Cyber Security Confidence</TITLE>
   </HEAD>
-  <BODY>This is my journey into the cyber security field. My curiousity is peaked and I can't waait to really do some amazing things here on this platform. I currently do not feel comfortable doing collaborative projects till I have had more time to grow. I know that I have not had much experience, but I hope to investigate that further here.
+  <BODY>This is my journey into the cyber security field. My curiousity is peaked and I can't wait to really do some amazing things here on this platform. I currently do not feel comfortable doing collaborative projects till I have had more time to grow. I know that I have not had much experience, but I hope to investigate that further here.
   </BODY>
   </HTML>
 
